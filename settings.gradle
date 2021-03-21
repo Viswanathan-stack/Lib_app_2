@@ -1,0 +1,3 @@
+include ':ManagerLib'
+include ':app'
+rootProject.name = "Lib app 2"
